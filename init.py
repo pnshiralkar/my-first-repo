@@ -1,2 +1,2 @@
 
-print('hello pict')
+print('hello PASC')
